@@ -2,8 +2,6 @@
 using UnityEngine;
 using UnityEditor.Build.Reporting;
 
-// Output the build size or a failure depending on BuildPlayer.
-
 public class BuildPlayerExample : MonoBehaviour
 {
     [MenuItem("Build/Build Windows")]
