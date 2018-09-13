@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-/Build
+C:/Users/david/Desktop/lol.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
